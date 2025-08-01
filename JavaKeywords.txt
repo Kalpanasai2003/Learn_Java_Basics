@@ -1,0 +1,19 @@
+JavaKeywords
+1.Class  - Defines a Class
+2.Public - Access modifier
+3.Private - Access only inside the Class
+4.Static  - Belongs to class, not object
+5.Void    - No return value
+6.Int     - Integer (Whole number) type
+7.Double - Decimal(Floating-point) type
+8.Char - Single character
+9.Boolean - True / False values
+10.New - Create a new object 
+11.If - Conditional checking
+12.Else - Alternate block
+13.While - Loop that checks before running
+14.For - Loop with counter
+15.Return - Sends a value back
+16.This - Refers to current object
+17.Try ,Catch - Error handling
+18.Import - To include other java packages/classes
